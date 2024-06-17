@@ -35,13 +35,15 @@ RECIPE_API_KEY=your_api_key
 
 4.Open index.html in your web browser to view the website.
 
-Usage
+#Usage
 
 Browse Recipes: Explore various recipes on the homepage.
+
 Search Recipes: Use the search bar to find specific recipes by keywords or ingredients.
+
 View Recipe Details: Click on a recipe to see ingredients, instructions, and nutrition facts.
 
-Contributing
+#Contributing
 
 1.Fork the repository.
 2.Create a new branch (git checkout -b feature/your-feature-name).
@@ -49,11 +51,14 @@ Contributing
 4.Push to the branch (git push origin feature/your-feature-name).
 5.Open a pull request.
 
-Contact
+#Contact
+
 Email: uthayakrishan2@gmail.com
+
 GitHub: krishnanuthaya.
 
-Overview
+#Overview
+
 Welcome to the Food Recipe Website! Discover and share delicious recipes with our user-friendly platform built using HTML, CSS, JavaScript, and an API.
 
 ##Screenshots
